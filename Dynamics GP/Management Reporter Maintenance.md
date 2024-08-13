@@ -15,18 +15,18 @@ On the left is the grouping of reports; your specific installation will show dif
 
 When the user right clicks on a report, the menu items contain "Show Versions":
 
-![image.png](//img/a0e3200eb4774d689beed9338446efbb/03%20-%20MR%20Viewer%20Rich%20Click%20Menu.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/03%20-%20MR%20Viewer%20Rich%20Click%20Menu.png)
 
-![image.png](//img/a0e3200eb4774d689beed9338446efbb/02%20-%20MR%20Viewer%20Screen.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/02%20-%20MR%20Viewer%20Screen.png)
 
 ### Version History Maintenance
 In this screenshot, one can see that the last time this report was run was 2015.  Unless there is a specific reason to keep this historical report, it is highly recommended that the user select a version (hold the CTRL key to select multiple lines, or hold the SHIFT key while clicking another line to select all reports in the range between the first and second clicks) and hit the "Delete" button on the right.
 
-![image.png](//img/a0e3200eb4774d689beed9338446efbb/04%20-%20MR%20Report%20History%20List.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/04%20-%20MR%20Report%20History%20List.png)
 
 The system will request confirmation that it should delete these reports; click "Yes":
 
-![image.png](//img/a0e3200eb4774d689beed9338446efbb/05%20-%20MR%20Confirm%20Delete.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/05%20-%20MR%20Confirm%20Delete.png)
 
 ## Considerations Regarding Deletion
 
@@ -89,7 +89,7 @@ GO
 
 The system will show an output that indicates the action taken including the current size:
 
-![image.png](//img/a0e3200eb4774d689beed9338446efbb/06%20-%20MR%20SQL%20Response.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/06%20-%20MR%20SQL%20Response.png)
 
 (This particular example does not show that any action was taken - it is illustrative only.)
 

@@ -7,7 +7,7 @@ I have seen situations recently where Management Reporter maintenance is require
 ### How to Find Historical Reports
 On a server on which the Management Reporter client is installed, the user can go to the start menu in Windows and search for "Report Viewer".  Any workstation that has the Report Designer installed should have the Report Viewer installed.
 
-![image.png](.//img/a0e3200eb4774d689beed9338446efbb/01%20-%20Report%20Viewer%20Menu.png)
+![image.png](/img/a0e3200eb4774d689beed9338446efbb/01%20-%20Report%20Viewer%20Menu.png)
 
 The Report Viewer is a library viewer for the management reports that have been run.  It also allows for the annotation of these reports, and various drill-in / drill-down activities.  In general, this functionality has also been incorporated into the web client version of these reports, rendering the Viewer's utility a matter of user preference.
 

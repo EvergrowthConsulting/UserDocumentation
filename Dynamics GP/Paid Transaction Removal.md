@@ -10,7 +10,7 @@ Navigate to the "Dynamics GP" menu --> Tools --> Routines --> Sales --> Paid Tra
 
 Alternatively, you can access it from the Sales main screen:
 
-![image.png](/img/b13f58c625094ed08549f276a86bed66/02%20-%20Pane Navigation.png)
+![image.png](/img/b13f58c625094ed08549f276a86bed66/02%20-%20Pane%20Navigation.png)
 
 This window then opens:
 
